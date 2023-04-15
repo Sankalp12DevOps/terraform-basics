@@ -42,3 +42,12 @@ output "statesNames"{
 value = "this is state with name ${var.states[0]}"
 
 }
+
+variable "streetName"{
+
+}
+
+output "streetOP"{
+
+    value = var.streetName
+}

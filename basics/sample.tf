@@ -54,7 +54,6 @@ output "streetOP"{
 
 
 variable "housenumber"{
-default = "sankalpam"
 
 }
 

@@ -51,3 +51,14 @@ output "streetOP"{
 
     value = var.streetName
 }
+
+
+variable "housenumber"{
+
+}
+
+output "houseOP"{
+
+value = var.housenumber
+
+}

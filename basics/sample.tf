@@ -37,3 +37,8 @@ value = "this is tier 1 city ${var.cities.tier1}"
 
 }
 
+output "statesNames"{
+
+value = "this is state with name ${var.states[0]}"
+
+}

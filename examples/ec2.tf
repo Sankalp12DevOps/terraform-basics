@@ -10,3 +10,9 @@ resource "aws_instance" "web" {
     Name = "INstance-1"
   }
 }
+
+output "publicIp"{
+
+value = aws_instance.web.public_ip
+
+}

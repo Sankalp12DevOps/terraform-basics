@@ -30,3 +30,10 @@ output "citynames"{
 value = var.country
 
 }
+
+output "citiesNames"{
+
+value = "this is tier 1 city ${var.cities.tier1}"
+
+}
+

@@ -1,1 +1,1 @@
-nameValue= "Sankalp Mandapati Mand buddhi"
+nameVal= "Sankalp Mandapati Mand buddhi"

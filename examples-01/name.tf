@@ -1,3 +1,3 @@
-variable nameValue{
-    
+variable nameVal{
+
 }

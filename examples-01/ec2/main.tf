@@ -23,6 +23,6 @@ variable "sg_id"{
 
 }
 
-variable "nameValue"{
+variable "nameVal"{
 
 }

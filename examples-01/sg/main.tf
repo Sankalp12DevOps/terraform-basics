@@ -30,10 +30,10 @@ value = aws_security_group.allow_ssh.id
 }
 
 variable "nameValue"{
-  
+
 }
 
-output "nameValue"{
+output "nameVal"{
 
 value = var.nameValue
 }

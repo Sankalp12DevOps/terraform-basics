@@ -23,10 +23,6 @@ variable "sg_id"{
 
 }
 
-output "val"{
-  value = var.nameValue
-}
-
 variable "nameValue"{
 
 }

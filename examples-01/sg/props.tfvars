@@ -1,0 +1,1 @@
+nameValue = "Sankalp Mandapati Mand buddhi"
